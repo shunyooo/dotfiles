@@ -1,0 +1,8 @@
+nbdime
+ipywidgets
+ipyvolume
+aquirdturtle-collapsible-headings
+jupyterlab-code-formatter
+jupyterlab-topbar
+jupyter-resource-usage
+jupyterlab-system-monitor
